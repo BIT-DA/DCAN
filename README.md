@@ -28,18 +28,20 @@ To install the required python packages, run
 ```pip install -r requirements.txt ```
 
 ## Datasets
+
 ### Office-Home
 Office-Home dataset can be found [here](http://hemanthdv.org/OfficeHome-Dataset/).
 
 ### DomainNet
+
 DomainNet dataset can be found [here](http://ai.bu.edu/M3SDA/).
 
 ### Office-31
 Office-31 dataset can be found [here](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/).
 
-
 ## Pre-trained models
-Pre-trained models can be downloaded [here]() and put in <root_dir>/pretrained_models
+
+Pre-trained models can be downloaded [here](https://github.com/BIT-DA/DCAN/releases) and put in <root_dir>/pretrained_models
 
 
 ## Running the code
