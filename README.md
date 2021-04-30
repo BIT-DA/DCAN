@@ -13,6 +13,8 @@ If you find this code useful for your research, please cite our [paper](https://
     title = {Domain Conditioned Adaptation Network},
     author = {Li, Shuang and Liu, Chi Harold and Lin, Qiuxia and Xie, Binhui and Ding, Zhengming and Huang, Gao and Tang, Jian},
     booktitle = {Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)},    
+    pages     = {11386--11393},
+    publisher = {{AAAI} Press},
     year = {2020}
 }
 ```
